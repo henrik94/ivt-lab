@@ -4,7 +4,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 
 The application is simplified and deliberately contains bugs.
 
-Also Travis CI added.
+Also Travis CI added. Those guys on branch A cannot win the merge conflict! Changing line in Readme!
 
 ## Getting started
 
