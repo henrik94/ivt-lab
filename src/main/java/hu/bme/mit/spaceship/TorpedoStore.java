@@ -5,7 +5,7 @@ import java.util.Random;
 /**
 * Class storing and managing the torpedoes of a ship
 */
-public class TorpedoStore {
+public class TorpedoStore implements ITorpedoStore {
 
   private double FAILURERATE = 0.0;
 
